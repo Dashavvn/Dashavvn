@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dashawn Meredith. Welcome to my git repo, here I place all my projects that I have worked on. 
+- 🌱 I’m currently learning, python and plc's.
+- 💞️ I’m looking to collaborate on anything, I love to learn new skills.
+- 📫 How to reach me - dashavvn.meredith@gmail.com
